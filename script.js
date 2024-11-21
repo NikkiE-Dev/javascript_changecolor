@@ -1,5 +1,5 @@
-function setBgRed('red') {
-    document.body.style.backgroundColor = 'red';
+function setBgRed(color) {
+    document.body.style.backgroundColor = color;
 }
 ​
 function setBgBlue() {
