@@ -1,4 +1,4 @@
-function setBgRed() {
+function setBgRed('red') {
     document.body.style.backgroundColor = 'red';
 }
 ​
